@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../BakingSite2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "simonproject6"
+	}
+}
